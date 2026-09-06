@@ -1,1 +1,19 @@
-# Olá, eu sou Alexandre Calanca 👋 ### Java Backend Developer em construção ☕💻 Profissional de TI em transição para o desenvolvimento de software, com experiência em suporte e infraestrutura. Atualmente focado em **Java + Spring Boot**, construindo projetos reais para evoluir em backend, arquitetura e engenharia de software. ### 🚀 Foco atual - ☕ Java & Spring Boot - 🗄️ PostgreSQL & SQL - 🔐 APIs REST & Security - 🧪 Testes automatizados - 🐳 Docker & CI/CD - ☁️ AWS - 🤖 IA aplicada ao desenvolvimento ### 🛠️ Projetos Estou desenvolvendo uma série de projetos com foco em problemas reais e boas práticas de engenharia: **FlowDesk** · **FinCore** · **CargoFlow** · **DocMind** · **DevPilot** Cada projeto explora diferentes conceitos de **backend, arquitetura, testes, DevOps e Inteligência Artificial**. ### 📚 Atualmente estudando **Java → Spring Boot → APIs → Banco de Dados → Testes → Docker → AWS → Arquitetura → IA** Meu objetivo é transformar conhecimento teórico em **software funcional, bem estruturado e próximo da realidade profissional**. ### 🔗 Onde me encontrar [LinkedIn](SEU_LINKEDIN) · [GitHub](SEU_GITHUB) · [LeetCode](SEU_LEETCODE)
+Hi, I'm Alexandre Calanca 👋
+Software Engineer | Java • Spring Boot • SQL • REST APIs • Docker • AWS • AI
+
+I'm a Software Engineer focused on backend development with Java and Spring Boot.
+
+
+Tech Stack
+
+Backend: Java • Spring Boot • REST APIs
+Databases: SQL • PostgreSQL • MySQL
+DevOps & Cloud: Docker • AWS • CI/CD
+Engineering: Git • Automated Testing • Software Architecture
+AI: LLMs • AI APIs • RAG
+
+
+Connect with me
+🔗 LinkedIn
+https://www.linkedin.com/in/alexandrecalanca/
+
